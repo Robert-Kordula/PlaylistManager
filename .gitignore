@@ -354,3 +354,6 @@ MigrationBackup/
 
 #Typescript
 /build
+
+
+/dist
