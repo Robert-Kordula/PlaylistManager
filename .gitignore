@@ -352,8 +352,4 @@ MigrationBackup/
 # Enviroment Variables
 .env
 
-#Typescript
-/build
-
-
-/dist
+dist/
